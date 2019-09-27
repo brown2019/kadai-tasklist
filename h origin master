@@ -1,0 +1,77 @@
+[33mcommit 52ef70ad28d43344973d0fa0eff49bc261bb82d7[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Mon Sep 23 23:00:53 2019 +0900
+
+    Add flush message
+
+[33mcommit d429c991eef73d4d60bc0cf9a58a19422cd6924d[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Mon Sep 23 22:56:11 2019 +0900
+
+    Add stylesheets
+
+[33mcommit 05db6f61ac526eeeeabc0e40f94deabd1150e330[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Mon Sep 23 22:49:45 2019 +0900
+
+    Modify null control
+
+[33mcommit d2a4c20d344725350e27c1b0d5181c9c104047ae[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Mon Sep 23 22:45:32 2019 +0900
+
+    Add DestroyServlet.java
+
+[33mcommit 9931f2db33bd0aeec7a3a49530f08dabcc1d71fa[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Mon Sep 23 22:42:42 2019 +0900
+
+    Add UpdateServlet.java
+
+[33mcommit aec8ead410d5d05827b8508d5678ab6c4060ab66[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Mon Sep 23 21:48:29 2019 +0900
+
+    Add ShowServlet
+
+[33mcommit fbabc35ec9b83afb9130996705db7c73e04d24ae[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Mon Sep 23 21:40:07 2019 +0900
+
+    Add CreateServlet.java
+
+[33mcommit b0fe64dd26a3eeb304560169f6bc32c2f730f7e3[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Mon Sep 23 21:31:45 2019 +0900
+
+    Modify Index/NewServlet
+
+[33mcommit 5d97330b0b3224544e4d028e7b032ff3bd64648a[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Mon Sep 23 20:46:24 2019 +0900
+
+    Add NewServlet.java
+
+[33mcommit e616db7302eb7012b0b008323a22f3264f08cdb5[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Sun Sep 22 21:32:34 2019 +0900
+
+    Add database files
+
+[33mcommit 99dddd0458b2aeaf2f3bbc160efed061a57b6f07[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Sun Sep 22 21:18:39 2019 +0900
+
+    Add IndexServlet.java
+
+[33mcommit 3175f458559ed2c4425b2f9ab1650fc14204d2c7[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Sun Sep 22 21:13:51 2019 +0900
+
+    Add pom.xml
+
+[33mcommit 850bb7aa88eda885396b5bd16e127e53e3bf50f2[m
+Author: takahashi <arigatou0816@yahoo.co.jp>
+Date:   Sun Sep 22 21:09:32 2019 +0900
+
+    Initial commit
